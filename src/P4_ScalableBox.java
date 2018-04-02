@@ -1,12 +1,14 @@
 /*
 	ISYS 320
-	Name(s):
-	Date: 
+	Name(s):drew schulte
+	Date: april 1 
 */
 
 public class P4_ScalableBox {
+	
 
 	public static void main(String[] args) {
+		System.out.println("Input Box width: ");
 		drawBoxCap();
 		drawBoxInsides();
 		drawBoxCap();
